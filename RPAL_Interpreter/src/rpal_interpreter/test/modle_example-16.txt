@@ -1,0 +1,12 @@
+gamma
+.lambda
+..<ID:n>
+..->
+...ls
+....<ID:n>
+....<INT:0>
+...neg
+....<ID:n>
+...<ID:n>
+.neg
+..<INT:3>
